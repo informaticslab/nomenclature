@@ -1,0 +1,71 @@
+.mainPanel {
+	width:800px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+}
+
+.title {
+	color: seagreen;
+	font-size: 16px;
+	font-family: Verdana;
+	font-weight: bold;
+	padding-bottom: 10px;
+}
+
+.entryBox {
+	width: 300px;
+}
+
+.labOrdersTable {
+	border: 1px solid silver;
+	padding: 4px;
+	margin-top: 6px;
+	border-collapse: collapse;
+}
+
+.labOrdersHeader {
+	background-color: seagreen;
+	color: White;
+	font-size: 14px;
+	font-family: Verdana;
+  	border-right: 1px solid seagreen;
+}
+
+.labOrderColumn {
+	width: 250px;	
+	text-align: left;
+}
+
+.facilityColumn {
+	width: 150px;
+	text-align: left;
+}
+
+.tableLabel {
+	cursor: pointer;	
+}
+
+.editLabOrderColumn {
+	width: 250px;	
+}
+
+.editFacilityColumn {
+	width: 150px;
+	text-align: center;
+}
+
+.facilityListBox {
+	width: 130px;	
+}
+
+.descriptionColumn {
+	width: 150px;
+	text-align: center;
+}
+
+.deleteColumn {
+	width: 50px;
+	text-align: center;
+}
+

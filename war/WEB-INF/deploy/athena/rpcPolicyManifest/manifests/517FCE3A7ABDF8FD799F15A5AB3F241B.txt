@@ -1,0 +1,2 @@
+serviceClass: gov.cdc.irdu.athena.shared.LabService
+path: 233C997BD13CD5B64E569A69C153F5BC.gwt.rpc

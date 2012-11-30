@@ -1,0 +1,3 @@
+# Module athena
+# RPC service class, partial path of RPC policy file
+gov.cdc.irdu.athena.shared.LabService, 233C997BD13CD5B64E569A69C153F5BC.gwt.rpc
